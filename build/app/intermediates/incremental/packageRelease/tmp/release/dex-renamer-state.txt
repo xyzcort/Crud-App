@@ -1,0 +1,4 @@
+#Thu Aug 08 05:52:21 PDT 2024
+base.0=C\:\\Users\\h1x\\Documents\\ALL FOLDER LAPTOP WIN 11 dan Pop\\Folder Document Pop os\\app_assets\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
